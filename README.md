@@ -1,1 +1,1 @@
-Exercícios resolvidos do URI
+Exercícios resolvidos do URI - Python
