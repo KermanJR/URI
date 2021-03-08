@@ -1,1 +1,1 @@
-Questõs resolvidas do Uri
+Exercícios resolvidos do URI
