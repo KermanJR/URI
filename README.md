@@ -1,1 +1,1 @@
-Exercícios resolvidos do URI - Python
+Exercícios resolvidos Plataforma URI - Python
